@@ -29,7 +29,7 @@ public:
             } else {   
                 integer += currInt;
             }
-            prevInt = s[i];
+            prevInt = currInt;
         }
         return integer;
     }
