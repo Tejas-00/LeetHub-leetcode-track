@@ -7,16 +7,17 @@ public:
             return commonStr;
         }
 
+        sort(strs.begin(),strs.end());
+
         int size = strs.size();
         string firstElem = strs[0];
         string lastElem = strs[size - 1];
 
         for (int i = 0; i < firstElem.size(); i++) {
-            if (firstElem[i] == lastElem[i]) {
-                commonStr += firstElem[i];
-            } else {
+            if (firstElem[i] != lastElem[i]) {
                 return commonStr;
             }
+            commonStr += firstElem[i];
         }
         return commonStr;       
     }
