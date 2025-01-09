@@ -6,6 +6,7 @@ public:
             if (str1[i] == str2[i]) {
                 commonPref = str1.substr(0,i+1);
             } else {
+                commonPref = str1.substr(0,i);
                 break;
             }
         }
