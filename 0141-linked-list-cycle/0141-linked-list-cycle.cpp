@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if (head == nullptr || head->next == nullptr) {
-            return false; // No cycle if the list is empty or has only one node
-        }
+        // if (head == nullptr || head->next == nullptr) {
+        //     return false;
+        // }
 
         ListNode* slow = head;
         ListNode* fast = head;
@@ -13,10 +13,10 @@ public:
             slow = slow->next;
 
             if (fast == slow) {
-                return true; // Cycle detected
+                return true;
             }
         }
 
-        return false; // No cycle found
+        return false;
     }
 };
