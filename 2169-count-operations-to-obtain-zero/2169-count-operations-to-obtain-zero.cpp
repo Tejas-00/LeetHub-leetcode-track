@@ -5,7 +5,7 @@ public:
         while (num1 && num2) {
             if (num1 >= num2 ) num1 -= num2;
             else num2 -= num1;
-            count++
+            count++;
         } return count;
     }
 };
