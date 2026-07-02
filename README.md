@@ -61,6 +61,7 @@ Stay consistent and happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,16 @@ Stay consistent and happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0022-generate-parentheses/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
