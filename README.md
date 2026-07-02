@@ -54,3 +54,19 @@ This repository follows LeetHub's licensing terms. Refer to [LeetHub's documenta
 **[Tejas-00](https://github.com/Tejas-00)**
 
 Stay consistent and happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0022-generate-parentheses/) | Medium |
+<!---LeetCode Topics End-->
