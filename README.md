@@ -74,6 +74,7 @@ Stay consistent and happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,8 @@ Stay consistent and happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0049-group-anagrams/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Tejas-00/LeetHub-leetcode-track/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
